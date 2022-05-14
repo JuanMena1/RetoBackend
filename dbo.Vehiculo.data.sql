@@ -1,0 +1,1 @@
+﻿INSERT INTO [dbo].[Vehiculo] ([Id], [Ubicacion], [Historial], [ID_Pedido]) VALUES (2, '40.42610076946783, -3.702961720121043', '40.42610076946783, -3.702961720121043', NULL)
