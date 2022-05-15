@@ -15,5 +15,6 @@ namespace RetoBackend.Data
         }
 
         public DbSet<RetoBackend.Modelos.Vehiculo>? Vehiculo { get; set; }
+        public DbSet<RetoBackend.Modelos.Pedido>? Pedido { get; set; }
     }
 }
